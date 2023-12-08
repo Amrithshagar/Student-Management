@@ -13,11 +13,11 @@ This is a Node.js project using Express to build a RESTful API with MongoDB as t
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    
-## Installing dependencies
+2. Installing dependencies
    ```bash
    npm install
 
-## Run the application
+3. Run the application
    ```bash
    npm start
 
