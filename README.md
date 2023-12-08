@@ -10,8 +10,8 @@ This is a Node.js project using Express to build a RESTful API with MongoDB as t
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Amrithshagar/Student-Management.git
+   cd Student-Management
    
 2. Installing dependencies
    ```bash
